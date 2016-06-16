@@ -1,0 +1,11 @@
+###LECTURE NOTES 151110###
+
+class Mammal:
+	blahblah
+
+class Dog(Mammal):
+	#inherits Mammal Class
+
+if isintance(creature,animals.Mammal):
+	#checks if creature is an instance of Mammal class within animals.py module
+	#does this work if the class of creature is inherited from Mammal?
